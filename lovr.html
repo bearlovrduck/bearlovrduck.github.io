@@ -79,7 +79,7 @@ TinyHeart.prototype = {
     },
     draw: function() {
         var t = this.img;
-        t || (t = document.createElement("img"), t.src = "http://bearlovrduck.github.io/images/" + this.style + ".png", this.container.appendChild(t), this.img = t),
+        t || (t = document.createElement("img"), t.src = "http://bearlovrduck.github.io/" + this.style + ".png", this.container.appendChild(t), this.img = t),
         t.style.left = px(this.x),
         t.style.top = px(this.y),
         t.style.width = px(48 * this.scale),
