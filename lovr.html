@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>lovr</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <link type="text/css" rel="stylesheet" href="http://bearlovrduck.github.io/qrj.css" />
+    <link type="text/css" rel="stylesheet" href="http://www.dmaku.com/demo/jquery/2017032197995353/qrj.css" />
 </head>
 <body style="background:#ffd1d6">
 
@@ -14,8 +14,8 @@
         <div class="shake">
             <div class="rope"></div>
             <div class="heart-wrap">
-                <img src="http://bearlovrduck.github.io/loveb.png" class="heart">
-                <img src="http://bearlovrduck.github.io/loves.png" class="beat">
+                <img src="http://www.dmaku.com/demo/jquery/2017032197995353/loveb.png" class="heart">
+                <img src="http://www.dmaku.com/demo/jquery/2017032197995353/loves.png" class="beat">
             </div>
         </div>
         <div class="tiny"></div>
@@ -79,7 +79,7 @@ TinyHeart.prototype = {
     },
     draw: function() {
         var t = this.img;
-        t || (t = document.createElement("img"), t.src = "http://bearlovrduck.github.io/" + this.style + ".png", this.container.appendChild(t), this.img = t),
+        t || (t = document.createElement("img"), t.src = "http://www.dmaku.com/demo/jquery/2017032197995353/" + this.style + ".png", this.container.appendChild(t), this.img = t),
         t.style.left = px(this.x),
         t.style.top = px(this.y),
         t.style.width = px(48 * this.scale),
