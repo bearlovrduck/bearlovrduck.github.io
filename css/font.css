@@ -12,7 +12,6 @@
     src: 
          local('Apple Color Emoji'), 
          local('Android Emoji'), 
-         local('Segoe UI'),  
          url(http://bearlovrduck.github.io/webfont/seguiemj.ttf) format('truetype'),
          url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff'),
          url(http://bearlovrduck.github.io/webfont/seguiemj.woff2) format('woff2');
