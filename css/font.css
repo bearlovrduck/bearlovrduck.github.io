@@ -1,0 +1,40 @@
+﻿/*
+ 字型安裝檔
+ */
+
+
+@font-face 
+  {
+  
+
+/*
+ 中文
+ */
+
+
+    font-family: china ;
+    src: 
+         url(../webfont/font/china.woff) format('woff');
+
+
+
+/*
+ 英文
+ */
+
+
+    font-family: english ;
+    src: 
+         url(../webfont/font/english.woff) format('woff');
+
+
+
+/*
+ 數位數字
+ */
+
+
+    font-family: digital ;
+    src: 
+         url(../webfont/font/digital.woff) format('woff'),
+         url(../webfont/font/digital.woff2) format('woff2');
