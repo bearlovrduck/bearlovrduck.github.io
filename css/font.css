@@ -14,9 +14,5 @@
 
     font-family: "emoji" ;
     src: 
-         url(http://bearlovrduck.github.io/webfont/seguiemj.ttf) format('truetype'),
-
-         url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff'),
-
-         url(http://bearlovrduck.github.io/webfont/seguiemj.woff2) format('woff2');
+         url(https://github.com/googlei18n/noto-emoji/blob/master/fonts/NotoColorEmoji.ttf) format('truetype');
   }
