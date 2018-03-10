@@ -10,11 +10,12 @@
    font-family: "emoji"; 
 
     src: 
+
+         url(http://bearlovrduck.github.io/webfont/seguiemj.ttf) format('truetype'),
+         url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff'),
          local('Apple Color Emoji'), 
          local('Android Emoji'), 
-         local('Segoe UI'), 
-         url(http://bearlovrduck.github.io/webfont/seguiemj.ttf) format('truetype'),
-         url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff'), 
+         local('Segoe UI'),  
          url(http://bearlovrduck.github.io/webfont/seguiemj.woff2) format('woff2');
 
 /* Emoji unicode blocks */ 
