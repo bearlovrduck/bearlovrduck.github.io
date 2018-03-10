@@ -3,15 +3,15 @@
 index.html<br />
 對應   http://bearlovrduck.github.io/
 
-css 目錄
-對應   http://bearlovrduck.github.io/css/
+css 目錄<br />
+對應   http://bearlovrduck.github.io/css/
 
-font 目錄
-對應   http://bearlovrduck.github.io/font/
+font 目錄<br />
+對應   http://bearlovrduck.github.io/font/
 
-images 目錄
-對應   http://bearlovrduck.github.io/images/
+images 目錄<br />
+對應   http://bearlovrduck.github.io/images/
 
-js 目錄
-對應   http://bearlovrduck.github.io/js/
+js 目錄<br />
+對應   http://bearlovrduck.github.io/js/
 
