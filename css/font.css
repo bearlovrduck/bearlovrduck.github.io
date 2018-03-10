@@ -12,7 +12,7 @@
  */
 
 
-    font-family: china ;
+    font-family: "china" ;
     src: 
          url(http://bearlovrduck.github.io/webfont/china.woff) format('woff');
 
@@ -23,7 +23,7 @@
  */
 
 
-    font-family: english ;
+    font-family: "english" ;
     src: 
          url(http://bearlovrduck.github.io/webfont/english.woff) format('woff');
 
@@ -34,7 +34,7 @@
  */
 
 
-    font-family: digital ;
+    font-family: "digital" ;
     src: 
          url(http://bearlovrduck.github.io/webfont/digital.woff) format('woff'),
          url(http://bearlovrduck.github.io/webfont/digital.woff2) format('woff2');
