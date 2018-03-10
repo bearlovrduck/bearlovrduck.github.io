@@ -14,7 +14,7 @@
 
     font-family: "china" ;
     src: 
-         url(http://github.com/bearlovrduck/bearlovrduck.github.io/blob/master/webfont/china.woff) format('woff');
+         url(http://bearlovrduck.github.io/webfont/china.woff) format('woff');
 
 
 
@@ -25,7 +25,7 @@
 
     font-family: "english" ;
     src: 
-         url(http://github.com/bearlovrduck/bearlovrduck.github.io/blob/master/webfont/english.woff) format('woff');
+         url(http://bearlovrduck/bearlovrduck.github.io/webfont/english.woff) format('woff');
 
 
 
@@ -36,6 +36,6 @@
 
     font-family: "digital" ;
     src: 
-         url(http://github.com/bearlovrduck/bearlovrduck.github.io/blob/master/webfont/digital.woff) format('woff'),
-         url(http://github.com/bearlovrduck/bearlovrduck.github.io/blob/master/webfont/digital.woff2) format('woff2');
+         url(http://bearlovrduck/bearlovrduck.github.io/webfont/digital.woff) format('woff'),
+         url(http://bearlovrduck/bearlovrduck.github.io/webfont/digital.woff2) format('woff2');
   }
