@@ -5,7 +5,7 @@
 
     font-family: "emoji_seguiemj"; 
     src: 
-         local('Noto Color Emoji'), 
+         local('NotoColorEmoji'), 
          url(http://bearlovrduck.github.io/webfont/seguiemj.ttf) format('truetype'),
          url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff');
          unicode-range: U+1F6AD,U+1F43B,U+1F48B, U+2764;
