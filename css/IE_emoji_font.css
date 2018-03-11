@@ -1,0 +1,8 @@
+﻿@font-face 
+  {
+  
+   font-family: "emoji"; 
+    src: 
+         url(http://bearlovrduck.github.io/webfont/NotoColorEmoji.ttf) format('truetype')        
+         unicode-range: U+1F6AD, U+1F48B, U+2764, U+1F43B; 
+  }
