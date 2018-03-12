@@ -6,6 +6,6 @@
     font-family: "emoji_seguiemj"; 
     src: 
          local('NotoColorEmoji'), 
-         url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff');
+         url(http://bearlovrduck.github.io/webfont/seguiemj.wof) format('woff');
          unicode-range: U+1F6AD,U+1F43B,U+1F48B, U+2764;
   }
