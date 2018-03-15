@@ -3,7 +3,6 @@
 @font-face
      {
        font-family: 'cwTeXYen';
-  
        src:
              url(http://bearlovrduck.github.io/webfont/china.woff) format('woff');
      }
@@ -21,10 +20,9 @@
 
 /*  🚭   🐻  💋   ❤   */
 
-@font-face 
+@font-face
      {
-
-       font-family: "emoji_seguiemj"; 
+       font-family: "emoji_seguiemj";
        src:
             url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff');
             unicode-range: U+1F6AD,U+1F43B,U+1F48B, U+2764;
