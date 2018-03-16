@@ -7,3 +7,21 @@
             url(http://bearlovrduck.github.io/webfont/seguiemj.woff) format('woff');
             unicode-range: U+1F6AD,U+1F43B,U+1F48B, U+2764;
      }
+
+/*  英文   */
+
+@font-face
+     {
+       font-family: "Glass Antiqua";
+       src:
+            url(http://bearlovrduck.github.io/webfont/en.woff) format('woff');
+     }
+
+/*  中文   */
+
+@font-face
+     {
+       font-family: "cwTeXYen";
+       src:
+            url(http://bearlovrduck.github.io/webfont/zh.woff) format('woff');
+     }

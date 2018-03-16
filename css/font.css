@@ -6,3 +6,12 @@
        src:
             url(http://bearlovrduck.github.io/webfont/en.woff) format('woff');
      }
+
+/*  中文   */
+
+@font-face
+     {
+       font-family: "cwTeXYen";
+       src:
+            url(http://bearlovrduck.github.io/webfont/zh.woff) format('woff');
+     }
