@@ -1,24 +1,4 @@
-﻿/* 中文字型 */
-
-@font-face
-     {
-       font-family: 'cwTeXYen';
-       src:
-             url(http://bearlovrduck.github.io/webfont/china.woff) format('woff');
-     }
-
-
-/* 英文字型 */
-
-@font-face
-     {
-       font-family: 'Glass Antiqua';
-       src:
-             url(http://bearlovrduck.github.io/webfont/english.woff) format('woff');
-     }
-
-
-/*  🚭   🐻  💋   ❤   */
+﻿/*  🚭   🐻  💋   ❤   */
 
 @font-face
      {
