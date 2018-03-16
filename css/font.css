@@ -4,15 +4,5 @@
      {
        font-family: "Glass Antiqua";
        src:
-            url(http://bearlovrduck.github.io/webfont/en.woff2) format('woff2');
-     }
-
-
-/*  中文   */
-
-@font-face
-     {
-       font-family: "cwTeXYen";
-       src:
-            url(http://bearlovrduck.github.io/webfont/zh.woff2) format('woff2');
+            url(http://bearlovrduck.github.io/webfont/en.woff) format('woff');
      }
