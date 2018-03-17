@@ -1,0 +1,17 @@
+﻿/*  🚭   🐻  💋   ❤   */
+
+@font-face
+     {
+       font-family: "emoji_seguiemj";
+       src:
+            url(http://bearlovrduck.github.io/webfont/emoji_lovr.woff) format('woff');
+     }
+
+/*  中英文   */
+
+@font-face
+     {
+       font-family: "Glass Antiqua";
+       src:
+            url(http://bearlovrduck.github.io/webfont/font_lovr.woff) format('woff');
+     }
