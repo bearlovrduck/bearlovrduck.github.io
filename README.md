@@ -9,9 +9,11 @@ css 目錄<br />
 images 目錄<br />
 對應   http://bearlovrduck.github.io/images/<br />
 
+music 目錄<br />
+對應   http://bearlovrduck.github.io/music/<br />
+
 js 目錄<br />
 對應   http://bearlovrduck.github.io/js/<br />
 
 webfont 目錄<br />
 對應   http://bearlovrduck.github.io/webfont/<br />
-
